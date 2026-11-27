@@ -130,10 +130,15 @@ kr3-responsive-shop/
 
 После выполнения аудита добавить один из файлов:
 
-- `lighthouse/accessibility-report.png`;
-- `lighthouse/accessibility-report.html`.
+Рекомендуется сохранить отдельные HTML-отчёты для каждой проверенной страницы:
 
-До добавления настоящего отчёта контрольная проверка Lighthouse остаётся незавершённой.
+- `lighthouse/accessibility-report-index.html`;
+- `lighthouse/accessibility-report-catalog.html`;
+- `lighthouse/accessibility-report-order.html`.
+
+Вместо HTML можно сохранить скриншоты отчётов с аналогичными именами и расширением `.png`.
+
+До добавления настоящих отчётов контрольная проверка Lighthouse остаётся незавершённой.
 
 ## Ссылка на репозиторий КР №3
 
